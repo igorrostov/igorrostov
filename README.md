@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My name is Igor Rostovskiy
+
+Experienced data analyst passionate about learning big data for practical use and benefit of the company I work for.
+
 <!--
 **igorrostov/igorrostov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
