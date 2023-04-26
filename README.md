@@ -4,11 +4,11 @@
 
 Experienced data analyst passionate about learning big data for practical use and benefit of the company I work for.
 
-Data Analysis:
+**Data Analysis:**
 
 Python, Pandas, Numpy, Matplotlib, SciPy, Plotly, Seaborn, dash, Tableau, MS Excel, Google Sheets
 
-Databases:
+**Databases:**
 
 PostgreSQL, MySQL
 
