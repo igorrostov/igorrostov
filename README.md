@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+### My name is Igor Rostovskiy :man_technologist:
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### My name is Igor Rostovskiy
-
-Experienced data analyst passionate about learning big data for practical use and benefit of the company I work for.
+I'm experienced data analyst passionate about learning big data for practical use and benefit of the company I work for.
 
 **Data Analysis:**
 
