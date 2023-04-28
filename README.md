@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-### My name is Igor Rostovskiy
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### My name is Igor Rostovskiy
+
+---
+
 ### :man_technologist: About Me :
 
-- I'm experienced data analyst passionate about learning big data for practical use and benefit of the company I work for.
-
-- **Data Analysis:**
+ I'm experienced data analyst passionate about learning big data for practical use and benefit of the company I work for.
+ 
+ ---
+ 
+ ### :hammer_and_wrench: Languages and Tools :
+ 
 
 - Python, Pandas, Numpy, Matplotlib, SciPy, Plotly, Seaborn, dash, Tableau, MS Excel, Google Sheets
 
