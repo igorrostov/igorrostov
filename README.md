@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-### My name is Igor Rostovskiy :man_technologist:
+### My name is Igor Rostovskiy
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I'm experienced data analyst passionate about learning big data for practical use and benefit of the company I work for.
+### :man_technologist: About Me :
 
-**Data Analysis:**
+- I'm experienced data analyst passionate about learning big data for practical use and benefit of the company I work for.
 
-Python, Pandas, Numpy, Matplotlib, SciPy, Plotly, Seaborn, dash, Tableau, MS Excel, Google Sheets
+- **Data Analysis:**
 
-**Databases:**
+- Python, Pandas, Numpy, Matplotlib, SciPy, Plotly, Seaborn, dash, Tableau, MS Excel, Google Sheets
 
-PostgreSQL, MySQL
+- **Databases:**
+
+- PostgreSQL, MySQL
 
 <!--
 **igorrostov/igorrostov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
